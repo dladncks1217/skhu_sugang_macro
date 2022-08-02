@@ -1,0 +1,16 @@
+{
+  "name": "macro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^15.5.0",
+    "puppeteer-get-iframe": "^1.0.0"
+  }
+}
